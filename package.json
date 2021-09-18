@@ -4,6 +4,7 @@
   "main": "index.js",
   "license": "MIT",
   "devDependencies": {
+    "@graphprotocol/graph-cli": "^0.21.1",
     "@types/jest": "^27.0.1",
     "@types/node": "^16.7.4",
     "@typescript-eslint/eslint-plugin": "^4.29.3",
